@@ -1,0 +1,42 @@
+body {
+	background: #d2d2c1 url('imagens/fundo-branco-da-areia-41413549.jpg');
+	font: 16px Arial, Helvetica, sans-serif;
+}
+
+#principal {
+	width: 100%px;
+}
+
+#menu {
+	background: #c5c5b2;
+	padding: 20px;
+}
+
+#conteudo {
+	background: #e8e8d9;
+	padding: 30px;
+}
+
+#rodape {
+	text-align: center;
+}
+
+a {
+	color: #313846;
+	text-decoration: none;
+	font-weight: bold;
+	padding: 25px;
+}
+
+.centralizar {
+	text-align: center;
+}
+
+.img-campanha {
+	border: 8px solid #c3c3ae;
+}
+
+h1 {
+	color: #444355;
+	font-size: 1.2em;
+}
